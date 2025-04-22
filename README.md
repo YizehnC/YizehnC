@@ -1,4 +1,6 @@
-## Hi there 👋
+# *✨About me✨*
+## I'm currently studying full time as a student.😄
+## Currently learning the fundamentals of programming and cybersecurity⚡⚡⚡
 
 <!--
 **YizehnC/YizehnC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
